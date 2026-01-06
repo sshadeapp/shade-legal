@@ -1,6 +1,6 @@
 # Privacy Policy for SHADE
 
-**Last Updated:** [Bugünün Tarihi, örn: January 6, 2026]
+**Last Updated:** January 6, 2026]
 
 This Privacy Policy explains how SHADE ("we," "us," or "our") collects, uses, and discloses information about you when you use our mobile application (the "App").
 
@@ -22,4 +22,4 @@ We implement reasonable security measures to protect your information. However, 
 
 ### 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-**Email:** [contactshadeapp@gmail.com]
+**Email:** contactshadeapp@gmail.com
